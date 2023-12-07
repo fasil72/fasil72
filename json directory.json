@@ -1,0 +1,14 @@
+// directory.json
+[
+    {
+        "name": "John Doe",
+        "phone": "(555) 123-4567",
+        "email": "john@example.com"
+    },
+    {
+        "name": "Jane Smith",
+        "phone": "(555) 987-6543",
+        "email": "jane@example.com"
+    }
+    // Add more entries as needed
+]
